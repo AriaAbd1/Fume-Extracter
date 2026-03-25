@@ -26,7 +26,7 @@ A professional-grade, portable DIY fume extractor designed for electronics solde
 
 - **Fan**: [Noctua NF-F12 industrialPPC-24V-3000 IP67 PWM](https://www.amazon.ca/dp/B00KFCRATC). High-performance industrial fan.
 - **Control**: [Mini DC Motor PWM Speed Controller](https://www.aliexpress.com/item/1005007648380753.html) (3V-35V 5A).
-- **Filter**: [Activated Carbon Filter Sheets](https://www.amazon.ca/dp/B07RNGMXYG) (Cut to size).
+- **Filter**: [Activated Carbon Filter Sheets](https://www.amazon.ca/dp/B07RNGMXYG) (130x130mm).
 - **Hardware**: McMaster-Carr stainless steel screws and nuts (See [BOM](docs/BOM.md)).
 - **Housing**: 3D Printed PLA parts.
 
@@ -35,24 +35,12 @@ A professional-grade, portable DIY fume extractor designed for electronics solde
 The housing components are designed for high durability and ease of assembly.
 
 - **Printer**: Centauri Carbon Elegoo
-- **Material**: PLA (Polylactic Acid)
-- **Settings**: Standard 0.2mm layer height, 20% infill for structural components.
+- **Material**: PLA
+- **Settings**: Varying per part. See documentation for more details. 
 
 ## Repository Structure
 
-- `cad/`: 3D design files (Currently cleared for updates).
-- `images/`: Project builds and assembly photos.
+- `cad/`: 3D design files 
+- `images/`: Project builds, assembly photos, and test parts.
 - `docs/`: Technical manuals, [BOM](docs/BOM.md), and [Assembly Guide](docs/Assembly.md).
 
-## Assembly Gallery
-
-````carousel
-![Full Build](images/IMG_6640.jpg)
-<!-- slide -->
-![Internal Wiring](images/IMG_6598.jpg)
-<!-- slide -->
-![Filter Setup](images/IMG_6599.jpg)
-````
-
----
-*Developed for professional engineering portfolio.*
