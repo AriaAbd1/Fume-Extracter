@@ -29,7 +29,6 @@ A professional-grade, portable DIY fume extractor designed for electronics solde
 - **Filter**: [Activated Carbon Filter Sheets](https://www.amazon.ca/dp/B07RNGMXYG) (Cut to size).
 - **Hardware**: McMaster-Carr stainless steel screws and nuts (See [BOM](docs/BOM.md)).
 - **Housing**: 3D Printed PLA parts.
-- **Switch**: Heavy-duty SPST rocker switch.
 
 ## Manufacturing & 3D Printing
 
@@ -41,9 +40,9 @@ The housing components are designed for high durability and ease of assembly.
 
 ## Repository Structure
 
-- `cad/`: 3D printable models (`.stl`, `.step`).
+- `cad/`: 3D design files (Currently cleared for updates).
 - `images/`: Project builds and assembly photos.
-- `docs/`: Technical manuals and wiring diagrams.
+- `docs/`: Technical manuals, [BOM](docs/BOM.md), and [Assembly Guide](docs/Assembly.md).
 
 ## Assembly Gallery
 
@@ -53,8 +52,6 @@ The housing components are designed for high durability and ease of assembly.
 ![Internal Wiring](images/IMG_6598.jpg)
 <!-- slide -->
 ![Filter Setup](images/IMG_6599.jpg)
-<!-- slide -->
-![Battery Mount](images/IMG_6621.jpg)
 ````
 
 ---
