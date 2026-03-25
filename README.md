@@ -18,8 +18,8 @@ A professional-grade, portable DIY fume extractor designed for electronics solde
 |-----------|---------------|
 | Input Voltage | 12V - 24V DC (Plug & Play) |
 | Fan Size | 120mm x 120mm x 25mm |
-| Control Type | PWM (Pulse Width Modulation) |
-| Max Current Draw | ~1.5A |
+| Control Type | PWM rated for 0.5-0.7A |
+| Current Draw | 0.3A |
 | Filter Type | Activated Carbon |
 
 ## Component List (BOM)
