@@ -44,3 +44,15 @@ The housing components are designed for high durability and ease of assembly.
 - `images/`: Project builds, assembly photos, and test parts.
 - `docs/`: Technical manuals, [BOM](docs/BOM.md), and [Assembly Guide](docs/Assembly.md).
 
+## Assembly Gallery
+
+````carousel
+![Full Build](images/IMG_6640.jpg)
+<!-- slide -->
+![Internal View](images/IMG_6598.jpg)
+<!-- slide -->
+![Filter Setup](images/IMG_6599.jpg)
+````
+
+---
+*Developed for professional engineering portfolio.*
