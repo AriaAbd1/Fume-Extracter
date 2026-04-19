@@ -7,45 +7,50 @@ Follow these steps to assemble your DIY Fume Extractor.
 - Gorilla Super Glue (cyanoacrylate glue); optional: fast-setting spray/accelerator
 - Needle-nose pliers 
 
-## Step 1: Tilting Mechanism Pre-Assembly
-- Using needle-nose pliers, insert the low-profile square nuts into the matching holes on the fan's pivot mounts. Ensure the flattest side of the nut is facing the set screw holes.
-- Push the nuts all the way in and ensure the set screw holes are aligned perfectly with the nut's center.
-- Thread the set screws into the set screw holes on the pivot mounts.
+## Step 1: Pivot Mount Preparation
+- Firmly press-fit the thin-profile square nuts into the `Pivot_Mount` pieces. Use needle-nose pliers to push them in all the way—it is a very tight fit.
+- Insert the flat-tip set screws so the nuts don't fall out, but leave the central rod hole completely clear for the pivot rod to pass through.
+- Make sure that the set screws on both mounts face the same direction—facing away from where the base stands' forward protrusions will be.
 
-## Step 2: Base and Tilting Mechanism Setup
-- Insert the flat-head side of the pivot rod into the matching hole on the stand piece that lacks a dowel.
+## Step 2: Base Assembly Setup
+- Attach the `Pivot_Rod` to the `Base_Stand_Standard` (the stand without a peg hole).
+- Slide both `Pivot_Mount` pieces onto the rod. 
+- Attach the `Pivot_Rod` into the other stand, the `Base_Stand_Dowel_Mount`.
+- Insert the `Stand_Dowel` peg into the mount's hole to lock the rod. This should be a tight friction-fit.
 
-## Step 3: Fan Housing Assembly
-- Wrap the fan cable around the fan frame, leaving about a 15mm segment sticking out from the side.
-- On that same side, slide the pivot mounts onto the corners of the fan, ensuring the holes line up with the fan's mounting holes. This will be a tight fit with the included Noctua silicone dampeners, making alignment easier. The components are sufficiently flexible, so there is no risk of breaking them.
-- Place the fan into the front housing by sliding the pivot mounts into the integrated grooves on the inside of the front housing.
-- Carefully align the front housing with the side walls. Ensure the grooves dedicated to the pivot mounts are aligned, the side walls are flush with the front piece, and there is an even gap around the pivot mounts. 
-- Route the fan cable through one of the gaps around the pivot mounts so it can exit the housing.
-- Once alignment is confirmed, apply super glue to the connecting surfaces, press them firmly together, and optionally apply fast-setting spray to instantly secure the bond.
-- Secure the fan by inserting the M4 screws from the front of the housing, driving them about 90% of the way in.
-- Align the filter with the back of the housing walls and slide it into place. The screws will naturally punch holes through the filter material as it sits.
+## Step 3: Fan & Front Housing
+- Remove the front silicone anti-vibration pads from the Noctua fan.
+- **Important:** Route the fan cable around the fan frame (going around 3 corners) before installing the mounts. Doing this now ensures you won't have to disassemble and rebuild the unit later because of improper routing.
+- Place the fan into the `Pivot_Mount` pieces, lining up the fan's screw holes with the ones on the mounts.
+- Place the pivot mounts into their respective grooves on the interior of the `Front_Housing`.
+- Insert the four long M4 x 50mm Button Head Hex screws from the front outside face of the `Front_Housing`. Drive them through all the holes, but only enough so that they stick out from the back of the assembly by just 1-2 cm.
 
-## Step 4: Backside Assembly
-- *(Optional)* Insert magnets into the dedicated grooves on the housing walls and the backside mesh. They are designed to press-fit into the holes, but a small drop of glue can be used for extra security.
-- Align the screw holes on the backside mesh with the M4 screws. Insert a nut into the backside mesh's nut traps to secure it to the housing walls.
-- Return to the front of the housing and tighten the M4 screws until the nuts on the back mesh are slightly tight and cannot rotate freely. If you notice the mesh bending inward, loosen the screws slightly.
+## Step 4: Cable Routing & Housing Walls
+- Ensure the fan cable is snug against the fan and comes out the "top" of the `Front_Housing` with about 5 cm sticking out.
+- With the cable in position, slide the cable header through the rectangular hole on the `Housing_Walls` and pull it through. 
+- Lower the `Housing_Walls` down until they match the edges of the `Front_Housing`.
+- Secure the walls to the front housing with Gorilla superglue. **Do not spray accelerant on this**, as it may ruin the white finish of the plastic! Ideally, apply glue inside at the contact points, but exterior gluing is fine too. You only need to fully glue 2 or 3 sides. 
+- Ensure that the fan cable sticks out from the top, directly opposite to the base assembly pointing at the bottom.
 
-## Step 5: Pivot Rod
-- Slide the pivot rod through the holes on the pivot mounts located on the underside of the housing. 
-- Insert the rounded side of the pivot rod into the matching hole on the base stand piece that includes the dowel.
-- Insert the dowel into the stand from the top side. Ensure the pivot rod is not loose inside the stand.
-- Verify that the two base stands are aligned by placing the assembly on a flat surface and checking that the pivot rod is perfectly parallel to the surface.
-- Once the stands are aligned, apply a small drop of super glue on the outer sides of the stands where the rod terminates, and push the caps into place. Use fast-setting spray to secure the connection immediately.
+## Step 5: Filter & Backside Mesh
+- Lay the assembly flat on its face (front housing pointing down).
+- *(Optional)* Place a small dab of super glue on the underside of the magnets before inserting them into their grooves on the `Housing_Walls` and the `Backside_Mesh`. They are not 100% friction fit, and the magnetic force can easily pull them out if they are unglued. Ensure polarities match so they attract!
+- Place the activated carbon filter into the backside, letting the 1-2 cm exposed screw tips punch holes through the filter material.
+- Place the `Backside_Mesh` onto the walls. The magnets will help snap it into alignment and keep it in place.
 
-## Step 6: Electronics
-- Place the PWM controller on your preferred side of the housing and secure it with a dab of super glue.
-- Connect the fan cable to the PWM controller output.
-- Connect a USB-C cable to the PWM controller input to supply power.
-- Turn the knob to adjust the fan speed and verify the extractor functions correctly.
+## Step 6: Securing the Enclosure
+- Place the flat thin-profile square nuts into the grooves on the `Backside_Mesh`.
+- One by one, screw the long M4 x 50mm screws all the way through until the nut is secure. Stop tightening when secure; do not over-tighten, or the back mesh will warp from the screw tension.
 
-## Step 7: Final Adjustments
-- Rotate the fan housing to your preferred extraction angle.
-- Tighten the set screws one at a time to lock the housing securely at that angle. 
+## Step 7: Final Base Assembly
+- Apply glue to the outer-facing sides of the base stands (where the pivot rod is exposed).
+- Place the `Pivot_Rod_Caps` on concentrically with the rod to finish the look.
+
+## Step 8: Electronics & Final Adjustments
+- Find an arbitrary but convenient location on the outside surface of the `Housing_Walls`—ideally where it's easy to remove the cables and control the dial—and glue the PWM controller module down.
+- Attach the fan cable to the PWM controller module.
+- Adjust the fan housing to your preferred upright angle, then tighten the set screws on the `Pivot_Mount` pieces to lock the whole thing in position.
+- Finally, plug a USB-C power cable into the PWM module, turn the dial to set your fan speed, and the assembly is complete!
 
 ## Safety Precautions
 - **Clearance Check:** Before plugging in the fan controller, verify all parts are securely mounted and that the fan blades are unobstructed. The fan operates at a high RPM and can cause significant injury to skin or soft tissues if contacted while spinning.
