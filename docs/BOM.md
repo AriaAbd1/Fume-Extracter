@@ -2,7 +2,7 @@
 
 | Item | Qty | Link/Notes |
 |------|-----|------------|
-| Neodymium Magnets (0.12x0.04 in) | As needed | [Amazon.ca](https://www.amazon.ca/Neodymium-Magnets-Different-Whiteboard-Miniatures/dp/B0C9GLYGDR) |
+| Neodymium Magnets (0.12x0.04 in) | 8 | [Amazon.ca](https://www.amazon.ca/Neodymium-Magnets-Different-Whiteboard-Miniatures/dp/B0C9GLYGDR) |
 | Noctua NF-F12 industrialPPC-24V-3000 | 1 | [High-Performance 24V Fan](https://www.amazon.ca/dp/B00KFCRATC) |
 | Mini DC PWM Speed Controller | 1 | [3V-35V 5A Controller](https://www.aliexpress.com/item/1005007648380753.html) |
 | Activated Carbon Filter Sheets | 1 | [Carbon Filter](https://www.amazon.ca/dp/B07RNGMXYG) |
