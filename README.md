@@ -2,7 +2,7 @@
 
 A professional-grade, portable DIY fume extractor designed for electronics soldering and small-scale 3D printing. This project features a high-static-pressure PC fan, PWM speed control, and a "plug and play" DC power design.
 
-![Fume Extractor Overview](images/IMG_6640.jpg)
+![Fume Extractor Overview](images/IMG_6755.jpeg)
 
 ## Features
 
